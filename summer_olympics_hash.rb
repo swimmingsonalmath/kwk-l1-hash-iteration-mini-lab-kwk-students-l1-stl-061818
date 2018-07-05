@@ -17,7 +17,7 @@ summer_olympics.each do |places, years|
  end
  create_olympics_hash
 
- Implement this method so that it returns a hash with the data provided on README.md
+# Implement this method so that it returns a hash with the data provided on README.md
  def add_a_key_value_pair
 
  end 
